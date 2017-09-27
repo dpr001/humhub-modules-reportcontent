@@ -29,6 +29,7 @@ class ReportContent extends \humhub\modules\content\components\ContentAddonActiv
     const REASON_NOT_BELONG = 1;
     const REASON_OFFENSIVE = 2;
     const REASON_SPAM = 3;
+    const REASON_OTHERS = 4;
 
     /**
      * @inheritdoc
